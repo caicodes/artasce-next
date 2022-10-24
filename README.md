@@ -4,7 +4,19 @@ Here is the Deep Dive with Next and Tailwind CSS...
 
 https://artasce-next.vercel.app
 
+### Step 4
+Installing Favicons, updates to page titles, site meta... create very basic landing for update screenshot.
+### Step 3
+Setup CSS Vars, updated README, set body/bg colors, ready for Next.js docs review...
 
+### Step 2 
+Establish Github Repository and setup Vercel for hosting and for automated builds...
+
+### Step 1
+Removed boilerplate and Integrated TailwindCSS using TailwindCSS Documention for Next.js Framework
+
+
+> below is original from 'npx create-next-app'
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
