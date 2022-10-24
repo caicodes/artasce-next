@@ -1,5 +1,6 @@
 import Head from 'next/head'
 import Image from 'next/image'
+import ThemeSwitch from '../components/ThemeSwitch'
 
 export default function Home() {
   return (
@@ -13,6 +14,9 @@ export default function Home() {
         <h1 className="text-3xl font-bold underline">
           Hello Next with Tailwind CSS!
         </h1>
+
+        <ThemeSwitch />
+
       </main>
       <footer >
         <a

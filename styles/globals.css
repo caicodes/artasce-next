@@ -3,12 +3,17 @@
 @tailwind utilities;
 
 :root {
-  --background-color: rebeccapurple;
-  --color: palevioletred;
+  --background: rebeccapurple;
+  --foreground: palevioletred;
+}
+
+[data-theme="dark"] {
+  --background: black;
+  --foreground: hotpink;
 }
 
 html,
 body {
-  background: var(--background-color);
-  color: var(--color);
+  background: var(--background);
+  color: var(--foreground);
 }
