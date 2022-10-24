@@ -1,5 +1,5 @@
 import Head from 'next/head'
-import Image from 'next/image'
+import { BeakerIcon, SwatchIcon } from '@heroicons/react/24/solid'
 import ThemeSwitch from '../components/ThemeSwitch'
 
 export default function Home() {
@@ -14,6 +14,11 @@ export default function Home() {
         <h1 className="text-3xl font-bold underline">
           Hello Next with Tailwind CSS!
         </h1>
+
+        <ul className='p-4'>
+          <li className='flex gap-2 justify-center'><SwatchIcon className="h-6 w-6 text-lime-500" /> with next-themes</li>
+          <li className='flex gap-2 justify-center'><BeakerIcon className="h-6 w-6 text-blue-500" /> with heroicons</li>
+        </ul>
 
         <div className='p-4'>
           <ThemeSwitch />
