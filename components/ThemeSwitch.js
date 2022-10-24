@@ -52,7 +52,6 @@ const ThemeSwitch = () => {
         </Listbox>
       </div>
 
-
     </>
   )
 }
