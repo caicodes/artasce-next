@@ -4,8 +4,15 @@ Here is the Deep Dive with Next and Tailwind CSS...
 
 https://artasce-next.vercel.app
 
-### Step 4
+### Step 6 (next)
 Installing Favicons, updates to page titles, site meta... create very basic landing for update screenshot.
+
+### Step 5
+Setting up HeadlessUI from TailwindCSS - successfully completed... Added ListBox, switching to Radio Group for the DarkMode toggle...
+
+### Step 4
+Added `next-themes` and setup darkmode toggle
+
 ### Step 3
 Setup CSS Vars, updated README, set body/bg colors, ready for Next.js docs review...
 
