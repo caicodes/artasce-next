@@ -173,7 +173,6 @@ const ThemeSwitch = () => {
           <option value="light">Light</option>
         </select>
 
-
       </div>
 
     </>
