@@ -1,4 +1,6 @@
-# artasce-next
+<img src='./project/landing-design-current.png'/>
+
+# Artasce Next UI
 
 Here is the Deep Dive with Next and Tailwind CSS...
 
