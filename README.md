@@ -74,5 +74,12 @@ Starting with a cleanup for the landing, goals, plans, tools, etc.
 -   adobe xd design system
 -   design system website (next/redocly/storybook)
 
+> from docs.tryblip.com 
+https://docusaurus.io/docs/installation
+
+Q: How does docs.tryblip integrate the two?
+
+
+
 
 
