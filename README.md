@@ -65,3 +65,14 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 Now creating a few branches for development...
 
 Starting with a cleanup for the landing, goals, plans, tools, etc.
+
+## Goals
+
+-   next.js / tailwind (this site)
+-   redocly open api starter
+-   dist component library (react)
+-   adobe xd design system
+-   design system website (next/redocly/storybook)
+
+
+
