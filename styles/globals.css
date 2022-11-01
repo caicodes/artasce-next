@@ -3,17 +3,22 @@
 @tailwind utilities;
 
 :root {
-  --background: rebeccapurple;
-  --foreground: palevioletred;
+  --background: #061b2e;
+  --foreground: #f5f6f7;
+  --primary: #21b6ff;
 }
 
 [data-theme="dark"] {
-  --background: black;
-  --foreground: hotpink;
+  --background: #061b2e;
+  --foreground: #f5f6f7;
 }
 
 html,
 body {
   background: var(--background);
   color: var(--foreground);
+}
+
+a {
+  color: var(--primary);
 }
