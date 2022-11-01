@@ -77,6 +77,14 @@ Starting with a cleanup for the landing, goals, plans, tools, etc.
 > from research
 https://docusaurus.io/docs/installation
 
+```bash
+npx create-docusaurus@latest my-website classic
+```
+and with typescript
+```bash
+npx create-docusaurus@latest my-website classic --typescript
+```
+
 
 
 
